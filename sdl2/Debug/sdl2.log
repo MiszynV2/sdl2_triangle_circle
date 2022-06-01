@@ -1,0 +1,5 @@
+﻿  sdl2.cpp
+c:\users\miszyn\desktop\sdl8\sdl2\sdl2.cpp(38): warning C4244: "inicjowanie": konwersja z "float" do "int32_t", możliwa utrata danych
+c:\users\miszyn\desktop\sdl8\sdl2\sdl2.cpp(38): warning C4244: "inicjowanie": konwersja z "float" do "const int32_t", możliwa utrata danych
+c:\users\miszyn\desktop\sdl8\sdl2\sdl2.cpp(40): warning C4244: "inicjowanie": konwersja z "float" do "int32_t", możliwa utrata danych
+  sdl2.vcxproj -> C:\Users\miszyn\Desktop\sdl8\Debug\sdl2.exe
